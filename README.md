@@ -1,5 +1,5 @@
-blockdiag-watch
-===============
+watchdiag
+=========
 
 Simple script for compiling `blockdiag` diagrams like this one:
 
