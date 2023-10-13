@@ -1,0 +1,11 @@
+{
+  "name": "flows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryan Richardson",
+  "license": "MIT",
+  "dependencies": {
+    "node-watch": "^0.7.4",
+    "picomatch": "^2.3.1"
+  }
+}
